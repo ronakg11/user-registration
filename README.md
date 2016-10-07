@@ -1,7 +1,6 @@
-#Java Project
-> ##Base Point for Java Applications
+#User Registration Project
 
-> *Project for creating Java Applications which do common tasks.*
+> *Java application which registers a user into the system.*
 
 > **Java 7**
 
